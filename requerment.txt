@@ -1,0 +1,10 @@
+numpy
+flask
+keras
+re
+glob
+os
+sys
+werkzeug
+secure_filename
+gunicorn
